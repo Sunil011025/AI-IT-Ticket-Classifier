@@ -34,7 +34,6 @@ Displays total tickets, priority counts, and a breakdown of tickets by category.
 
 
 
-> **Note:** Add your actual application screenshots to the `screenshots/` folder using the filenames shown above.
 
 ## ✨ Features
 
