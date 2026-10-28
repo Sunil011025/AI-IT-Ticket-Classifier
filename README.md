@@ -11,25 +11,24 @@ The application analyzes IT support requests, identifies their category and prio
 The interface where users submit their IT support issues.
 <img width="967" height="596" alt="Screenshot 2026-10-29 001737" src="https://github.com/user-attachments/assets/a01e32c8-9db1-4525-a283-2de84ad743e2" />
 
-![AI IT Ticket Classifier Home Page](screenshots/homepage.png)
+
 
 ### 2. AI Classification Results
 Displays the predicted category, priority, sentiment, and AI-generated suggested response.
 <img width="848" height="942" alt="Screenshot 2026-10-29 001945" src="https://github.com/user-attachments/assets/cb3b6bdb-abe3-499d-bbf3-d782fb353cb6" />
 
-![AI Ticket Classification Results](screenshots/classification-result.png)
 
 ### 3. Ticket History and Filters
 View previously submitted tickets and filter them by category and priority.
 <img width="997" height="655" alt="Screenshot 2026-10-29 002008" src="https://github.com/user-attachments/assets/2cdf5056-4fe3-41a6-a481-5c63317ec67b" />
 
-![Ticket History and Filters](screenshots/ticket-history.png)
+
 
 ### 4. Dashboard
 Displays total tickets, priority counts, and a breakdown of tickets by category.
 <img width="1161" height="851" alt="Screenshot 2026-10-29 002027" src="https://github.com/user-attachments/assets/0f52338b-902b-4257-a28c-e9ca78dc339c" />
 
-![IT Support Dashboard](screenshots/dashboard.png)
+
 
 > **Note:** Add your actual application screenshots to the `screenshots/` folder using the filenames shown above.
 
@@ -77,12 +76,8 @@ AI-IT-Support/
 │   ├── tickets.html
 │   └── dashboard.html
 ├── tests/
-│   └── test_app.py
-└── screenshots/
-    ├── homepage.png
-    ├── classification-result.png
-    ├── ticket-history.png
-    └── dashboard.png
+   └── test_app.py
+
 ```
 
 The `.env`, `tickets.db`, and `venv/` are local files and should not be committed to GitHub.
